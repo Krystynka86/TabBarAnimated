@@ -28,7 +28,11 @@ As part of my journey to refresh my SwiftUI skills, I embarked on an exciting pr
 
 3. **Run on Simulator/Device:** Build and run the app on the iOS simulator or a physical device running iOS 14.0 or later.
 
-## Screenshots/GIFs
+## Screenshots
+
+![Screenshot 1](/Screenshots/screenshot1.png)
+![Screenshot 2](/Screenshots/screenshot2.png)
+
 
 ## Screenshots/GIFs
 
