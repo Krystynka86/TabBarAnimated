@@ -30,10 +30,9 @@ As part of my journey to refresh my SwiftUI skills, I embarked on an exciting pr
 
 ## Screenshots
 
-![Screenshot 1](TabBarAnimated
-/Simulator Screenshot - iPhone 14 Pro - 2023-08-01 at 20.17.42.png)
-![Screenshot 2](TabBarAnimated
-/Simulator Screenshot - iPhone 14 Pro - 2023-08-01 at 20.17.52.png)
+![Screenshot 1](https://github.com/Krystynka86/TabBarAnimated/blob/49f9b31b646619c4cac5891d58e488adfe5a9a3c/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-01%20at%2020.17.52.png)
+![Screenshot 2](https://github.com/Krystynka86/TabBarAnimated/blob/94b299a7d683288abd24675a2e0d71bbe8daa7d3/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-01%20at%2020.17.42.png)
+
 
 
 ## Screenshots/GIFs
